@@ -3,7 +3,7 @@ entries:
   aqua-nova-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-20T08:39:28.0837661+05:30"
+    created: "2026-03-20T09:31:10.9544584+05:30"
     description: A Helm chart for Kubernetes
     digest: d69dd8c36dd354cf4eb4ae35334f202fdb1309cd86e6773fc8c7828917dc7ac3
     name: aqua-nova-chart
@@ -14,7 +14,7 @@ entries:
   neural-port-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-20T08:39:28.0848389+05:30"
+    created: "2026-03-20T09:31:10.956734+05:30"
     description: A Helm chart for Kubernetes
     digest: f6d69e742f88f42ac462ea17589d986442f6cc4f87af9ab28af1346d71ee252f
     name: neural-port-chart
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://nikhi-vinju.github.io/charts/neural-port-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-20T08:39:28.0821306+05:30"
+generated: "2026-03-20T09:31:10.9527098+05:30"
